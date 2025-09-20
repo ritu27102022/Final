@@ -21,6 +21,9 @@ public class A
 		{
 			System.out.println("This is a4 method");
 		}
-	
+	  public void a5()
+	{
+		System.out.println("This is a5 methos");
+	}
 
 }
