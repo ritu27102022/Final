@@ -17,6 +17,10 @@ public class A
 		{
 			System.out.println("This is a3");
 		}
+		public void a4()
+		{
+			System.out.println("This is a4 method");
+		}
 	
 
 }
